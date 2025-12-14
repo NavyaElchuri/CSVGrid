@@ -1,0 +1,16 @@
+C:\Users\Navya Elchuri\source\repos\CSVGrid\CSVGrid\bin\Debug\net6.0-windows\CSVGrid.exe
+C:\Users\Navya Elchuri\source\repos\CSVGrid\CSVGrid\bin\Debug\net6.0-windows\CSVGrid.deps.json
+C:\Users\Navya Elchuri\source\repos\CSVGrid\CSVGrid\bin\Debug\net6.0-windows\CSVGrid.runtimeconfig.json
+C:\Users\Navya Elchuri\source\repos\CSVGrid\CSVGrid\bin\Debug\net6.0-windows\CSVGrid.dll
+C:\Users\Navya Elchuri\source\repos\CSVGrid\CSVGrid\bin\Debug\net6.0-windows\CSVGrid.pdb
+C:\Users\Navya Elchuri\source\repos\CSVGrid\CSVGrid\obj\Debug\net6.0-windows\CSVGrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navya Elchuri\source\repos\CSVGrid\CSVGrid\obj\Debug\net6.0-windows\CSVGrid.AssemblyInfoInputs.cache
+C:\Users\Navya Elchuri\source\repos\CSVGrid\CSVGrid\obj\Debug\net6.0-windows\CSVGrid.AssemblyInfo.cs
+C:\Users\Navya Elchuri\source\repos\CSVGrid\CSVGrid\obj\Debug\net6.0-windows\CSVGrid.csproj.CoreCompileInputs.cache
+C:\Users\Navya Elchuri\source\repos\CSVGrid\CSVGrid\obj\Debug\net6.0-windows\CSVGrid.dll
+C:\Users\Navya Elchuri\source\repos\CSVGrid\CSVGrid\obj\Debug\net6.0-windows\refint\CSVGrid.dll
+C:\Users\Navya Elchuri\source\repos\CSVGrid\CSVGrid\obj\Debug\net6.0-windows\CSVGrid.pdb
+C:\Users\Navya Elchuri\source\repos\CSVGrid\CSVGrid\obj\Debug\net6.0-windows\CSVGrid.genruntimeconfig.cache
+C:\Users\Navya Elchuri\source\repos\CSVGrid\CSVGrid\obj\Debug\net6.0-windows\ref\CSVGrid.dll
+C:\Users\Navya Elchuri\source\repos\CSVGrid\CSVGrid\obj\Debug\net6.0-windows\CSVGrid.Form1.resources
+C:\Users\Navya Elchuri\source\repos\CSVGrid\CSVGrid\obj\Debug\net6.0-windows\CSVGrid.csproj.GenerateResource.cache
